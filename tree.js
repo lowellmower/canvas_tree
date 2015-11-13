@@ -14,19 +14,3 @@ $(document).ready(function(){
   cx.translate(300,0);
   branch(90, 0.5, 0.8);
 });
-
-// BEZIER CURVE
-  // cx.beginPath();
-  // cx.moveTo(10, 90);
-  // cx.bezierCurveTo(20,20,90,100,50,90);
-  // cx.lineTo(90, 10);
-  // cx.lineTo(10, 10);
-  // cx.closePath();
-  // cx.stroke();
-
-// RED RECTANGLE
-// var canvas = document.querySelector('canvas');
-// var context = canvas.getContext("2d");
-
-// context.fillStyle = 'red';
-// context.fillRect(10,10,100,50);
