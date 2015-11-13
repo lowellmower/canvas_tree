@@ -15,7 +15,6 @@ $(document).ready(function(){
   branch(90, 0.5, 0.8);
 });
 
-
 // BEZIER CURVE
   // cx.beginPath();
   // cx.moveTo(10, 90);
@@ -24,7 +23,6 @@ $(document).ready(function(){
   // cx.lineTo(10, 10);
   // cx.closePath();
   // cx.stroke();
-
 
 // RED RECTANGLE
 // var canvas = document.querySelector('canvas');
